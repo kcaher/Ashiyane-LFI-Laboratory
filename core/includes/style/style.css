@@ -1,0 +1,122 @@
+body{
+color: #E3E3E3;
+background: url('images/intro.jpg') no-repeat fixed center center #223657;
+font-family: segoe ui;
+font-size: 13px;
+
+}
+a{
+    color:inherit;;
+    text-decoration: none;
+}
+#main{
+    width: 1000px;
+    min-height: 600px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#helpmain {
+    width: 600px;
+    max-width: 600px;
+    min-height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#helpmain td{
+    text-align:left;
+    width:150px;
+    height:30px;
+}
+.header{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+	text-align:center;
+	margin-top:20px;
+	border-bottom: 1px solid #3A86DD;
+
+}
+.headertext{
+    font-size: 30px;
+    font-family: segoe ui;
+    opacity: 0.5;
+    color: #FFF;
+    display:inline-block;
+}
+
+.welcome {
+    float: right;
+    background: no-repeat scroll center center #3A86DD;
+    color: #FFF;
+    padding: 5px 5px 5px 5px;
+}
+.aboutus {
+    float: left;
+    background: no-repeat scroll center center #3A86DD;
+    color: #FFF;
+    padding: 5px 5px 5px 5px;
+}
+.about{
+    font-size: 14px;
+}
+.abouttitle{
+    font-size: 17px;
+}
+.home{
+    float: right;
+    background: #3A86DD;
+    color: #FFF;
+    padding: 5px 5px 5px 5px;
+	border-right:1px solid #666;
+	border-left:1px solid #666;
+}
+.prev {
+    float: right;
+    background: #3A86DD;
+    color: #FFF;
+    padding: 5px 5px 5px 5px;
+}
+.next {
+    float: right;
+    background: #3A86DD;
+    color: #FFF;
+    padding: 5px 5px 5px 5px;
+}
+.body{
+	width:100%;
+	height:313px;
+	padding:10px;
+}
+.body th{
+	text-align:left;
+	height:40px;
+}
+.body td{
+	text-align:left;
+	width:150px;
+	height:30px;
+}
+.help {
+    float: right;
+    background: #3A86DD;
+    color: #FFF;
+    padding: 5px 5px 5px 5px;
+}
+.source {
+    float: right;
+    background: #3A86DD;
+    color: #FFF;
+    padding: 5px 5px 5px 5px;
+	border-right:1px solid #666;
+}
+.body{
+	width:100%;
+	height:313px;
+	padding:10px;
+}
+.footer{
+    border-top: 1px solid #3A86DD;
+}
+.clear{
+	clear:both;
+}
